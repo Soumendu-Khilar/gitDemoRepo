@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 90AD-6664
+
+ Directory of D:\GitDemoSpace
+
+11-05-2021  20:22    <DIR>          .
+11-05-2021  20:22    <DIR>          ..
+11-05-2021  19:43                 0 README.md
+11-05-2021  20:22                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  463,082,897,408 bytes free
